@@ -3,11 +3,11 @@
 ##### Me chamo Geovana Maria e atuo como QA. 
 > “A persistência é o caminho do êxito. ” – Charles Chaplin
 
-🧑‍🎓Cursando o 8º semestre de Sistemas de Informação;
+🧑‍🎓Formada em Sistemas de Informação;
 
-🧐 Atuo na área de qualidade há mais de ano;
+🧐 Atuo na área de qualidade há mais 3 anos;
 
-📚 Atualmente estudando para ingressar na área de automatização de testes 
+
 Foco: Testes Web com Cypress e Selenium (Python e Java);
 
 #### 🕹 Conhecimentos técnicos:
