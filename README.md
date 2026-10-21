@@ -1,4 +1,4 @@
-#### Olá, seja bem-vindo(a) e obrigada por visitar o meu perfil! 👩🏽‍💻
+<img width="1012" height="673" alt="image" src="https://github.com/user-attachments/assets/058bb1dc-60c5-4bab-a5a6-7d944429b804" />#### Olá, seja bem-vindo(a) e obrigada por visitar o meu perfil! 👩🏽‍💻
 
 ##### Prazer, me chamo Geovana Maria 👋
 
@@ -19,9 +19,13 @@ Atuo com qualidade baseada em risco, priorizando os testes pela criticidade, e a
 
 ### 🛠️ Ferramentas e tecnologias
 
-**Testes e APIs:** REST · GraphQL · Gherkin/BDD  · Layout 
+
+**Testes e APIs:** REST · GraphQL · Gherkin/BDD 
+
 **Dados:** SQL · MySQL · PostgreSQL
+
 **Gestão:** Jira · Azure DevOps
+
 **Em evolução:** Automação de testes
 
 ### 💼 Experiência
