@@ -1,4 +1,4 @@
-#### Olá, seja bem-vindo(a) e obrigada por visitar o meu perfil! 👩🏽‍💻
+<img width="1013" height="668" alt="image" src="https://github.com/user-attachments/assets/48328855-9c35-40f4-9759-ef4216954fe9" />#### Olá, seja bem-vindo(a) e obrigada por visitar o meu perfil! 👩🏽‍💻
 
 ##### Prazer, me chamo Geovana Maria 👋
 
@@ -46,7 +46,8 @@ Mentoria em estratégias de QA, palestras e eventos da área, e estudos em autom
 
 Os estudos e atividades práticas ficam em repositórios próprios:
 
-PIX Automático
+- [PIX Automático](https://github.com/geovana-maria/qa-pix-automatico): estratégia de testes baseada em risco, cenários em Gherkin e plano de automação
+
 
 ### 🎸 Fora do trabalho
 
