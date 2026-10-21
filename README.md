@@ -1,4 +1,4 @@
-<img width="1013" height="668" alt="image" src="https://github.com/user-attachments/assets/48328855-9c35-40f4-9759-ef4216954fe9" />#### Olá, seja bem-vindo(a) e obrigada por visitar o meu perfil! 👩🏽‍💻
+#### Olá, seja bem-vindo(a) e obrigada por visitar o meu perfil! 👩🏽‍💻
 
 ##### Prazer, me chamo Geovana Maria 👋
 
